@@ -1,0 +1,14 @@
+.spanbas {
+    color: red;
+}
+
+.divbas {
+    color:blue;
+}
+
+#h3bas{
+    color: green;
+    .spanbas{
+        background-color: black;
+    }
+}
